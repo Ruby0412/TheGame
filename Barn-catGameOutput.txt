@@ -1,0 +1,66 @@
+Welcome worthy squire! What might be your name?
+CS367
+Welcome to the simplest game ever!  Your goal is to get my cat back here.  I\nlove my cat so much.  Please!
+
+Please Enter a command ([H]elp):lr
+Welcome to the Outside!
+A lovely field of grass.  It is a sunny day.
+Some things that stand out from the rest :
+Flashlight
+Key
+Places that can be reached from here :
+Barn
+
+Please Enter a command ([H]elp):lt Flashlight
+Item Name: Flashlight
+Description: A shiny 2100 lumens torch
+
+Please Enter a command ([H]elp):u Flashlight
+Your magic sack doesn't have a Flashlight
+
+Please Enter a command ([H]elp):p Flashlight
+You picked up 
+Item Name: Flashlight
+Description: A shiny 2100 lumens torch
+
+Please Enter a command ([H]elp):u Flashlight
+Flashlight: The flashlight is now on
+
+Please Enter a command ([H]elp):g Barn
+The door is locked. It has a key-hole
+
+Please Enter a command ([H]elp):p Key
+You picked up 
+Item Name: Key
+Description: Old and rusty key to an unknown door (oooooh!)
+
+Please Enter a command ([H]elp):ls
+Scanning contents of your magic sack
+Flashlight
+Car Key
+Key
+
+
+Please Enter a command ([H]elp):u Key
+The barn is now open
+
+Please Enter a command ([H]elp):g Barn
+The following items are active:
+Flashlight: The flashlight is now on
+
+Welcome to the Barn!
+Old but sturdy barn full of things you can't touh, except ... "
+Some things that stand out from the rest :
+Cat
+Dog
+Places that can be reached from here :
+Outside
+
+Please Enter a command ([H]elp):p Cat
+You picked up 
+Item Name: Cat
+Description: Fluffy critter
+Congratulations, CS367!
+You have brought my cat outside!  Thank you for playing.
+@Samareh @Ameya, copyright(c) CS367
+

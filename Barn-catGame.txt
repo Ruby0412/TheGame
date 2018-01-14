@@ -1,0 +1,65 @@
+Welcome to the simplest game ever!  Your goal is to get my cat back here.  I\nlove my cat so much.  Please!
+You have brought my cat outside!  Thank you for playing.
+@Samareh @Ameya, copyright(c) CS367
+#player items:
+	#item:
+		Car Key
+		Toyota ignition key
+		false
+		no message
+		false
+		You can't actually use this
+#room: 
+	Outside
+	A lovely field of grass.  It is a sunny day.
+	true
+	true
+	#item:
+		Flashlight
+		A shiny 2100 lumens torch
+		false
+		flashlight on
+		false
+		The flashlight is now on
+	#item:
+		Key
+		Old and rusty key to an unknown door (oooooh!)
+		false
+		key to barn has been used
+		true
+		The barn is now open
+	#messageHandler:
+		key to barn has been used
+		room
+		Barn
+	#messageHandler:
+		flashlight on
+		visibility
+#room:#win
+	Barn
+	Old but sturdy barn full of things you can't touh, except ... "
+	false
+	true
+	#item:#win
+		Cat
+		Fluffy critter
+		false
+		mew
+		false
+		You cannot use this cat, you strange person
+	#item:
+		Dog
+		his name is barky
+		true
+		bow wow
+		false
+		You cannot use a dog, you strange person!
+	#messageHandler:
+		flashlight on
+		visibility
+#locked passages:
+Outside Barn 
+The door is locked. It has a key-hole
+#Adjacency List:
+Outside
+Barn Outside

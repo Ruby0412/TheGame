@@ -1,0 +1,75 @@
+Welcome worthy squire! What might be your name?
+Welcome to the simplest game ever!  Your goal is to get my cat back here.  I\nlove my cat so much.  Please!
+
+Please Enter a command ([H]elp):Welcome to the Outside!
+A lovely field of grass.  It is a sunny day.
+Some things that stand out from the rest :
+Flashlight
+Key
+Places that can be reached from here :
+Barn
+
+Please Enter a command ([H]elp):The door is locked. It has a key-hole
+
+Please Enter a command ([H]elp):Item Name: Flashlight
+Description: A shiny 2100 lumens torch
+
+Please Enter a command ([H]elp):Item Name: Key
+Description: Old and rusty key to an unknown door (oooooh!)
+
+Please Enter a command ([H]elp):Your magic sack doesn't have a Flashlight
+
+Please Enter a command ([H]elp):You picked up 
+Item Name: Flashlight
+Description: A shiny 2100 lumens torch
+
+Please Enter a command ([H]elp):You picked up 
+Item Name: Key
+Description: Old and rusty key to an unknown door (oooooh!)
+
+Please Enter a command ([H]elp):The barn is now open
+
+Please Enter a command ([H]elp):
+Welcome to the Barn!
+Its too dark to see a thing!
+Places that can be reached from here :
+Outside
+
+Please Enter a command ([H]elp):Flashlight: The flashlight is now on
+
+Please Enter a command ([H]elp):Welcome to the Barn!
+Old but sturdy barn full of things you can't touh, except ... "
+Some things that stand out from the rest :
+Cat
+Dog
+Places that can be reached from here :
+Outside
+
+Please Enter a command ([H]elp):You picked up 
+Item Name: Dog
+Description: his name is barky
+
+Please Enter a command ([H]elp):The following items are active:
+Flashlight: The flashlight is now on
+
+Welcome to the Outside!
+A lovely field of grass.  It is a sunny day.
+Places that can be reached from here :
+Barn
+
+Please Enter a command ([H]elp):The following items are active:
+Flashlight: The flashlight is now on
+
+Welcome to the Barn!
+Old but sturdy barn full of things you can't touh, except ... "
+Some things that stand out from the rest :
+Cat
+Places that can be reached from here :
+Outside
+
+Please Enter a command ([H]elp):You picked up 
+Item Name: Cat
+Description: Fluffy critter
+Congratulations, player1!
+You have brought my cat outside!  Thank you for playing.
+@Samareh @Ameya, copyright(c) CS367

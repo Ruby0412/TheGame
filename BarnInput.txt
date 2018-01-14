@@ -1,0 +1,16 @@
+player1
+lr
+g Barn
+lt Flashlight
+lt Key
+u Flashlight
+p Flashlight
+p Key
+u Key
+g Barn
+u Flashlight
+lr
+p Dog
+g Outside
+g Barn
+p Cat

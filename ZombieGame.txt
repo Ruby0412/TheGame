@@ -1,0 +1,259 @@
+You just woke up to the sound of the news on the TV: "... have broken out of their quarantined area.  All individuals in charge of maintaining the area safe have also been infested.  These zombies will attack on sight.  We advise that you make your way to the safe zone immediately!  we repeat ... ".  Your worst nightmare has come true.  You knew you should have moved when they put the quarantine camp downtown.  Time to get a move on!
+You made it to the safezone.  Immediately you spot the love of your life, looking for you.  You decide that you'll help humanity recover, and do what you love along the way.  Life is too short to do anything else.  Now to learn a whole lot of survival skills ... 
+(@Samareh, copyright(c) CS367)
+#player items:
+	#item:
+		Gold ring
+		You wear this for good luck.
+		true
+		wearing my lucky ring
+		true
+		you'll never see this message
+#room:
+	Bedroom
+	You normally keep things tidy, but with all the preparation of the epocolipse, this place looks like a mess.
+	true
+	true
+	#item:
+		flashlight
+		A shiny 2100 lumens torch
+		false
+		flashlight on
+		false
+		Let there be light!
+	#item:
+		Lifesavers
+		A pack of your favorite candy
+		false
+		none
+		false
+		You can't use this.
+	#messageHandler:
+		HAMMER SMASH!!
+		room
+		Livingroom
+	#messageHandler:
+		Tresure chest key used
+		room
+		TreasureChest
+	#messageHandler:
+		Eat chocolate
+		visibility
+#room:
+	Closet
+	You shoved everything in here yesterday when your friend was coming over.  Now most of this stuff in here useless to you.
+	false
+	true
+	#item:
+		Key
+		A very tiny key, the size of your pinky.  
+		false
+		Tresure chest key used
+		true
+		You used the key to open the treasure chest!  Go to it to see what's inside.
+	#item:
+		UW-sweater
+		UW-Madison?  Must be a university.  How did you end up with this? 
+		false
+		wearing sweater
+		true
+		cozy
+	#messageHandler:
+		flashlight on
+		visibility
+#room:
+	TreasureChest
+	An antique chest you nostalgically decided to keep your precious things in.  
+	false
+	true
+	#item:
+		Hammer
+		It has a few scratches from the years of ownership, but still in great condition.
+		false
+		HAMMER SMASH!!
+		true
+		You smashed the door to pieces.  The hammer also disintigrated in the process.  You just realized it was the first time you used your hammer, because it's a model hammer and not meant to be used.  Oh well ... at least you can go to the livingroom now.
+	#item:
+		Chocolate
+		Your favorite healthy dark chocolate from spain ... yum!!!
+		false
+		Eat chocolate
+		true
+		Num num num ... that felt so good!
+	#item:
+		Love Letters
+		"Hi love!  remember that summer we spent at that lake in Wisconsin?  The best memories I have ever had.  I wonder if you still remember those says.  I'm different now, but I miss you.  You know, I never told you, but you were the one that got away.  Let's see what the future holds."
+		true
+		letter is read
+		true
+		This message will never be seen.
+	#messageHandler:
+		flashlight on
+		visibility
+#room:
+	Livingroom
+	You once prized all your IKEA furniture, thought you were worth so much because you have such a nice home.  Now what's it all worth??  Midway through your existential relization, you look out of the window you see Zombies at a distance.  Looks like you better hurry!
+	true
+	true
+#room:
+	Bathroom
+	A very tidy bathroom.  Smells like lilacs from the plugin oil scent.  There is a small window you sometimes use for your party trick where you go to the bathroom and show up at the front door.
+	true
+	true
+	#item:
+		Soap
+		Great for cleaning
+		false
+		scrubby dubby
+		true
+		Hands all clean!
+	#item:
+		Plugin
+		Smells very strongly of lilacs.
+		false
+		I smell like lilacs
+		false
+		You pressed on it, twisted it, shook it ... nothing.  Angry, you crushed it and got covered.  Great, you smell like lilacs now.  Mother would be proud.  On the broken bottle, you see a note-to-self ... "zombies don't like this smell".
+	#messageHandler:
+		I smell like lilacs
+		visibility
+	#messageHandler:
+		Eat chocolate
+		visibility
+	#messageHandler:
+		scrubby dubby
+		visibility
+#room:
+	Kitchen
+	You never learned to cook, and you wonder why you invested in such a great kitchen.  Only time it gets used it is when friends come for holidays and bring food to heat up.  You wonder if you'll have to learn to cook now in this new era.
+	true
+	true
+	#item:
+		CarKey
+		Always held in your trusty bowl, you haven't lost your car keys in at least two years. 
+		false
+		car keys used
+		true
+		Great, you can drive your car now.  Oh, all the places you'll go!  Except that way, there are too many zombies that way.  Oh, and that way.  Hmmm ... OK, just drive.
+	#messageHandler:
+		I smell like lilacs
+		visibility
+	#messageHandler:
+		Eat chocolate
+		visibility
+	#messageHandler:
+		scrubby dubby
+		visibility
+#room:
+	MyYard
+	Perfectly mowed lawn.  Stop stepping on my grass, you zombies!!!  Oh, and my rose bushes!  Stupid zombies.
+	true
+	false
+	The zombies see you and smell you.  You manage to notice their approach when you started to head out, and didn't actually go.  What will you do?
+	#item:
+		Fog Generator
+		A bulky thing you use to fog up the neighborhood on Halloween, and sometimes to play fog tag in your yard.  You keep telling yourself you'll put that away someday.  It's so old, it creates too much fog sometimes, and you can't see anything past a few feet.
+		false
+		this place is so foggy now
+		true
+		After a quick survey and creation of a mental map of the gasstation, you turn it on.  Fog everywhere; no zombies can see you anymore.  Now you can use your mental map to go to where you need.
+	#messageHandler:
+		I smell like lilacs
+		habitability
+	#messageHandler:
+		car keys used
+		room
+		Car
+	#messageHandler:
+		Eat chocolate
+		visibility
+#room:
+	Car
+	Toyota prius.  Great for city driving.
+	true
+	true
+	#messageHandler:
+		Pumped some gas
+		room
+		Safezone
+	#messageHandler:
+		this place is so foggy now
+		room
+		GasStation
+	#messageHandler:
+		Eat chocolate
+		visibility
+#room:
+	GasStation
+	This place is already falling apart?  How?  The owner must have booked it months ago.  Hey, isn't that the zombified version of the guy who was supposed to fix your bathroom door?  Ah man!
+	true
+	true
+	#item:
+		Gas
+		Great for fueling your car.  Free, since there is no way to pay.  
+		false
+		Pumped some gas
+		true
+		You put enough fuel in your car to last you a very long time and all possible distances.
+	#messageHandler:
+		hit hit hit with the crowbar
+		room
+		car
+#room:
+	KwikieMart
+	Once run by your friend who is an aspiring writer; always seemed happy.  You wish you had followed your dreams of being an artist - probably would have been happier.  But hey, that IKEA furniture!
+	true
+	true
+	#item:#win
+		Supplies 
+		Food, clothing, matches, and water.  Could probably feed a small family.  You take a moment to reflect on the fact that you haven't married yet, and wish you had a better relationship with your parents.  Hmmm ... how will you live your life if you survive this?
+		true
+		presenting the supplies
+		true
+		They let you into the safe zone!
+	#item:
+		Crowbar
+		You wish you had one at your house.  Looks like pretty good quality.
+		false
+		hit hit hit with the crowbar
+		false
+		That zombie that took your keys still has them.  You keep swinging that crowbar with great effectiveness, disabling your foe!  You got your keys back and can get back into your car.
+#room:#win
+	Safezone
+	The safe heaven created over the last month by the paranoid and concerned.  Lots of room and technologies, and a lot of interesting personalities.
+	true
+	false
+	Drive up to the barricade door.  They tell you that they're already full and there aren't enough supplies for more people.  You ask if you can present them with supplies, if they would offer you shelter - they think about it, and say, "Yes, we'll let you in if you do that".	
+	#messageHandler:
+		presenting the supplies
+		habitability
+#locked passages:
+Bedroom Livingroom
+The door seems jammed.
+Bedroom TreasureChest
+You keep this locked so that little twirp nephew of yours doesn't get his sticky paws on your treasure.
+Bathroom Livingroom
+Oh yeah, now you remember, this door always locks behind you.  That's how that party trick started ... 
+MyYard Car
+Now, where did you put the car keys?
+GasStation Car
+A random zombie ran into you and grabbed your hand, and by the time you wrestled free, he had the keys.  Good thing these things don't know how to drive.
+Car Safezone
+You don't have nearly enough gas to go there!
+Car GasStation
+Seems like these zombies are already adapted to the lilac smell.  If the zombies see you outside of your car, they'll attack you.  Are you crazy?!?
+#Adjacency List:
+Bedroom Closet
+Closet Bedroom
+TreasureChest Bedroom
+Livingroom Bathroom 
+Livingroom Bedroom 
+Livingroom Kitchen
+Bathroom MyYard
+Kitchen Livingroom 
+Kitchen MyYard
+MyYard Kitchen
+Car MyYard
+GasStation KwikieMart
+KwikieMart GasStation
+Safezone GasStation

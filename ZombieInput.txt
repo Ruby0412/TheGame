@@ -1,0 +1,60 @@
+The best player of all time!
+lr
+lt Lifesavers
+p Lifesavers
+u Lifesavers
+lr
+p flashlight
+u flashlight
+lr
+g Closet
+u flashlight
+lr
+p Key
+g Bedroom
+g TreasureChest
+u Key
+g TreasureChest
+p Love Letters
+p Hammer
+u Chocolate
+lr
+g Bedroom
+u Hammer
+ls
+lt Gold ring
+lr
+g Livingroom
+g Kitchen
+p CarKey
+g MyYard
+g Livingroom
+g Bathroom
+p Soap
+u Soap
+u Plugin
+p Plugin
+u Plugin
+lr
+g MyYard
+ls
+u CarKey
+g Car
+g MyYard
+p Fog Generator
+g Car
+u Fog Generator
+g GasStation
+p Gas
+g KwikieMart
+p Crowbar
+p Supplies
+g GasStation
+g Car
+lr
+ls
+u Crowbar
+g Car
+g Safezone
+u Gas
+g Safezone

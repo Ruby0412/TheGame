@@ -1,0 +1,343 @@
+Welcome worthy squire! What might be your name?
+You just woke up to the sound of the news on the TV: "... have broken out of their quarantined area.  All individuals in charge of maintaining the area safe have also been infested.  These zombies will attack on sight.  We advise that you make your way to the safe zone immediately!  we repeat ... ".  Your worst nightmare has come true.  You knew you should have moved when they put the quarantine camp downtown.  Time to get a move on!
+
+Please Enter a command ([H]elp):Welcome to the Bedroom!
+You normally keep things tidy, but with all the preparation of the epocolipse, this place looks like a mess.
+Some things that stand out from the rest :
+flashlight
+Lifesavers
+Places that can be reached from here :
+TreasureChest
+Livingroom
+Closet
+
+Please Enter a command ([H]elp):Item Name: Lifesavers
+Description: A pack of your favorite candy
+
+Please Enter a command ([H]elp):You picked up 
+Item Name: Lifesavers
+Description: A pack of your favorite candy
+
+Please Enter a command ([H]elp):The Lifesavers cannot be used here
+
+Please Enter a command ([H]elp):Welcome to the Bedroom!
+You normally keep things tidy, but with all the preparation of the epocolipse, this place looks like a mess.
+Some things that stand out from the rest :
+flashlight
+Places that can be reached from here :
+TreasureChest
+Livingroom
+Closet
+
+Please Enter a command ([H]elp):You picked up 
+Item Name: flashlight
+Description: A shiny 2100 lumens torch
+
+Please Enter a command ([H]elp):The flashlight cannot be used here
+
+Please Enter a command ([H]elp):Welcome to the Bedroom!
+You normally keep things tidy, but with all the preparation of the epocolipse, this place looks like a mess.
+Places that can be reached from here :
+TreasureChest
+Livingroom
+Closet
+
+Please Enter a command ([H]elp):The following items are active:
+
+Welcome to the Closet!
+Its too dark to see a thing!
+Places that can be reached from here :
+Bedroom
+
+Please Enter a command ([H]elp):flashlight: Let there be light!
+
+Please Enter a command ([H]elp):Welcome to the Closet!
+You shoved everything in here yesterday when your friend was coming over.  Now most of this stuff in here useless to you.
+Some things that stand out from the rest :
+Key
+UW-sweater
+Places that can be reached from here :
+Bedroom
+
+Please Enter a command ([H]elp):You picked up 
+Item Name: Key
+Description: A very tiny key, the size of your pinky.
+
+Please Enter a command ([H]elp):The following items are active:
+
+Welcome to the Bedroom!
+You normally keep things tidy, but with all the preparation of the epocolipse, this place looks like a mess.
+Places that can be reached from here :
+TreasureChest
+Livingroom
+Closet
+
+Please Enter a command ([H]elp):You keep this locked so that little twirp nephew of yours doesn't get his sticky paws on your treasure.
+
+Please Enter a command ([H]elp):You used the key to open the treasure chest!  Go to it to see what's inside.
+
+Please Enter a command ([H]elp):The following items are active:
+flashlight: Let there be light!
+
+Welcome to the TreasureChest!
+An antique chest you nostalgically decided to keep your precious things in.
+Some things that stand out from the rest :
+Love Letters
+Hammer
+Chocolate
+Places that can be reached from here :
+Bedroom
+
+Please Enter a command ([H]elp):You picked up 
+Item Name: Love Letters
+Description: "Hi love!  remember that summer we spent at that lake in Wisconsin?  The best memories I have ever had.  I wonder if you still remember those says.  I'm different now, but I miss you.  You know, I never told you, but you were the one that got away.  Let's see what the future holds."
+
+Please Enter a command ([H]elp):You picked up 
+Item Name: Hammer
+Description: It has a few scratches from the years of ownership, but still in great condition.
+
+Please Enter a command ([H]elp):Your magic sack doesn't have a Chocolate
+
+Please Enter a command ([H]elp):Welcome to the TreasureChest!
+An antique chest you nostalgically decided to keep your precious things in.
+Some things that stand out from the rest :
+Chocolate
+Places that can be reached from here :
+Bedroom
+
+Please Enter a command ([H]elp):The following items are active:
+
+Welcome to the Bedroom!
+You normally keep things tidy, but with all the preparation of the epocolipse, this place looks like a mess.
+Places that can be reached from here :
+Livingroom
+TreasureChest
+Closet
+
+Please Enter a command ([H]elp):You smashed the door to pieces.  The hammer also disintigrated in the process.  You just realized it was the first time you used your hammer, because it's a model hammer and not meant to be used.  Oh well ... at least you can go to the livingroom now.
+
+Please Enter a command ([H]elp):Scanning contents of your magic sack
+flashlight
+Gold ring
+Love Letters
+Lifesavers
+
+
+Please Enter a command ([H]elp):Item Name: Gold ring
+Description: You wear this for good luck.
+
+Please Enter a command ([H]elp):Welcome to the Bedroom!
+You normally keep things tidy, but with all the preparation of the epocolipse, this place looks like a mess.
+Places that can be reached from here :
+TreasureChest
+Closet
+Livingroom
+
+Please Enter a command ([H]elp):The following items are active:
+
+Welcome to the Livingroom!
+You once prized all your IKEA furniture, thought you were worth so much because you have such a nice home.  Now what's it all worth??  Midway through your existential relization, you look out of the window you see Zombies at a distance.  Looks like you better hurry!
+Places that can be reached from here :
+Bedroom
+Bathroom
+Kitchen
+
+Please Enter a command ([H]elp):The following items are active:
+
+Welcome to the Kitchen!
+You never learned to cook, and you wonder why you invested in such a great kitchen.  Only time it gets used it is when friends come for holidays and bring food to heat up.  You wonder if you'll have to learn to cook now in this new era.
+Some things that stand out from the rest :
+CarKey
+Places that can be reached from here :
+Livingroom
+MyYard
+
+Please Enter a command ([H]elp):You picked up 
+Item Name: CarKey
+Description: Always held in your trusty bowl, you haven't lost your car keys in at least two years.
+
+Please Enter a command ([H]elp):The following items are active:
+Thou shall not pass because
+The zombies see you and smell you.  You manage to notice their approach when you started to head out, and didn't actually go.  What will you do?
+
+Please Enter a command ([H]elp):The following items are active:
+
+Welcome to the Livingroom!
+You once prized all your IKEA furniture, thought you were worth so much because you have such a nice home.  Now what's it all worth??  Midway through your existential relization, you look out of the window you see Zombies at a distance.  Looks like you better hurry!
+Places that can be reached from here :
+Bedroom
+Bathroom
+Kitchen
+
+Please Enter a command ([H]elp):The following items are active:
+
+Welcome to the Bathroom!
+A very tidy bathroom.  Smells like lilacs from the plugin oil scent.  There is a small window you sometimes use for your party trick where you go to the bathroom and show up at the front door.
+Some things that stand out from the rest :
+Soap
+Plugin
+Places that can be reached from here :
+Livingroom
+MyYard
+
+Please Enter a command ([H]elp):You picked up 
+Item Name: Soap
+Description: Great for cleaning
+
+Please Enter a command ([H]elp):Soap: Hands all clean!
+
+Please Enter a command ([H]elp):Your magic sack doesn't have a Plugin
+
+Please Enter a command ([H]elp):You picked up 
+Item Name: Plugin
+Description: Smells very strongly of lilacs.
+
+Please Enter a command ([H]elp):Plugin: You pressed on it, twisted it, shook it ... nothing.  Angry, you crushed it and got covered.  Great, you smell like lilacs now.  Mother would be proud.  On the broken bottle, you see a note-to-self ... "zombies don't like this smell".
+
+Please Enter a command ([H]elp):Welcome to the Bathroom!
+A very tidy bathroom.  Smells like lilacs from the plugin oil scent.  There is a small window you sometimes use for your party trick where you go to the bathroom and show up at the front door.
+Places that can be reached from here :
+Livingroom
+MyYard
+
+Please Enter a command ([H]elp):The following items are active:
+Plugin: You pressed on it, twisted it, shook it ... nothing.  Angry, you crushed it and got covered.  Great, you smell like lilacs now.  Mother would be proud.  On the broken bottle, you see a note-to-self ... "zombies don't like this smell".
+
+Welcome to the MyYard!
+Perfectly mowed lawn.  Stop stepping on my grass, you zombies!!!  Oh, and my rose bushes!  Stupid zombies.
+Some things that stand out from the rest :
+Fog Generator
+Places that can be reached from here :
+Car
+Kitchen
+
+Please Enter a command ([H]elp):Scanning contents of your magic sack
+flashlight
+Gold ring
+CarKey
+Love Letters
+Lifesavers
+Plugin
+
+
+Please Enter a command ([H]elp):Great, you can drive your car now.  Oh, all the places you'll go!  Except that way, there are too many zombies that way.  Oh, and that way.  Hmmm ... OK, just drive.
+
+Please Enter a command ([H]elp):The following items are active:
+
+Welcome to the Car!
+Toyota prius.  Great for city driving.
+Places that can be reached from here :
+Safezone
+GasStation
+MyYard
+
+Please Enter a command ([H]elp):The following items are active:
+Plugin: You pressed on it, twisted it, shook it ... nothing.  Angry, you crushed it and got covered.  Great, you smell like lilacs now.  Mother would be proud.  On the broken bottle, you see a note-to-self ... "zombies don't like this smell".
+
+Welcome to the MyYard!
+Perfectly mowed lawn.  Stop stepping on my grass, you zombies!!!  Oh, and my rose bushes!  Stupid zombies.
+Some things that stand out from the rest :
+Fog Generator
+Places that can be reached from here :
+Car
+Kitchen
+
+Please Enter a command ([H]elp):You picked up 
+Item Name: Fog Generator
+Description: A bulky thing you use to fog up the neighborhood on Halloween, and sometimes to play fog tag in your yard.  You keep telling yourself you'll put that away someday.  It's so old, it creates too much fog sometimes, and you can't see anything past a few feet.
+
+Please Enter a command ([H]elp):The following items are active:
+
+Welcome to the Car!
+Toyota prius.  Great for city driving.
+Places that can be reached from here :
+Safezone
+GasStation
+MyYard
+
+Please Enter a command ([H]elp):After a quick survey and creation of a mental map of the gasstation, you turn it on.  Fog everywhere; no zombies can see you anymore.  Now you can use your mental map to go to where you need.
+
+Please Enter a command ([H]elp):The following items are active:
+
+Welcome to the GasStation!
+This place is already falling apart?  How?  The owner must have booked it months ago.  Hey, isn't that the zombified version of the guy who was supposed to fix your bathroom door?  Ah man!
+Some things that stand out from the rest :
+Gas
+Places that can be reached from here :
+Car
+KwikieMart
+
+Please Enter a command ([H]elp):You picked up 
+Item Name: Gas
+Description: Great for fueling your car.  Free, since there is no way to pay.
+
+Please Enter a command ([H]elp):The following items are active:
+
+Welcome to the KwikieMart!
+Once run by your friend who is an aspiring writer; always seemed happy.  You wish you had followed your dreams of being an artist - probably would have been happier.  But hey, that IKEA furniture!
+Some things that stand out from the rest :
+Crowbar
+Supplies
+Places that can be reached from here :
+GasStation
+
+Please Enter a command ([H]elp):You picked up 
+Item Name: Crowbar
+Description: You wish you had one at your house.  Looks like pretty good quality.
+
+Please Enter a command ([H]elp):You picked up 
+Item Name: Supplies
+Description: Food, clothing, matches, and water.  Could probably feed a small family.  You take a moment to reflect on the fact that you haven't married yet, and wish you had a better relationship with your parents.  Hmmm ... how will you live your life if you survive this?
+
+Please Enter a command ([H]elp):The following items are active:
+
+Welcome to the GasStation!
+This place is already falling apart?  How?  The owner must have booked it months ago.  Hey, isn't that the zombified version of the guy who was supposed to fix your bathroom door?  Ah man!
+Places that can be reached from here :
+Car
+KwikieMart
+
+Please Enter a command ([H]elp):A random zombie ran into you and grabbed your hand, and by the time you wrestled free, he had the keys.  Good thing these things don't know how to drive.
+
+Please Enter a command ([H]elp):Welcome to the GasStation!
+This place is already falling apart?  How?  The owner must have booked it months ago.  Hey, isn't that the zombified version of the guy who was supposed to fix your bathroom door?  Ah man!
+Places that can be reached from here :
+Car
+KwikieMart
+
+Please Enter a command ([H]elp):Scanning contents of your magic sack
+Crowbar
+Supplies
+flashlight
+Gold ring
+Love Letters
+Lifesavers
+Gas
+Plugin
+
+
+Please Enter a command ([H]elp):That zombie that took your keys still has them.  You keep swinging that crowbar with great effectiveness, disabling your foe!  You got your keys back and can get back into your car.
+
+Please Enter a command ([H]elp):The following items are active:
+
+Welcome to the Car!
+Toyota prius.  Great for city driving.
+Places that can be reached from here :
+Safezone
+GasStation
+MyYard
+
+Please Enter a command ([H]elp):You don't have nearly enough gas to go there!
+
+Please Enter a command ([H]elp):You put enough fuel in your car to last you a very long time and all possible distances.
+
+Please Enter a command ([H]elp):The following items are active:
+Supplies: They let you into the safe zone!
+
+Welcome to the Safezone!
+The safe heaven created over the last month by the paranoid and concerned.  Lots of room and technologies, and a lot of interesting personalities.
+Places that can be reached from here :
+GasStation
+Congratulations, The best player of all time!!
+You made it to the safezone.  Immediately you spot the love of your life, looking for you.  You decide that you'll help humanity recover, and do what you love along the way.  Life is too short to do anything else.  Now to learn a whole lot of survival skills ... 
+(@Samareh, copyright(c) CS367)
